@@ -1,6 +1,4 @@
-# Tattoo Citas API - Node.js
-API REST para agendar citas de estudio de tatuajes.
-Stack: Node.js, Express, SQLite
-Endpoints: POST/GET/DELETE /citas
-Deploy: [link de Render]
-Cómo correr: npm install && npm start
+## Tattoo Citas API - Node.js + Express + SQLite
+API REST para estudio de tatuajes.
+Live: https://tu-link.onrender.com/api/citas
+Endpoints: GET/POST /api/citas, GET/DELETE /api/citas/:id
